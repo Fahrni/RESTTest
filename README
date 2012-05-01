@@ -1,0 +1,21 @@
+RESTTest - Sample iFixit iOS REST app
+=========================
+
+* Created by [Rob Fahrni](http://applecorelabs.com)
+
+What is RESTTest?
+-------------------------
+
+RESTTest is a sample iOS project that calls the iFixit Badges REST endpoint and displays the results in a table view. That's all it does.
+
+It illustrates the use of 
+* NSURL
+* NSURLMutableRequest
+* NSURLConnection
+* NSJSONSerialization
+
+Developed for my @NSSLO presentation May 1, 2012 entitled REST and JSON. 
+
+---------------------------------------
+
+* 05/01/2012 - **1.0** Initial release
